@@ -1,0 +1,14 @@
+nav a {
+    padding-right: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: green;
+}
+
+.active {
+    color: green;
+    text-decoration: underline;
+}
